@@ -54,12 +54,3 @@ for (let i=0; i<stars2; i++) {
     str+= '*';
     console.log(str);
 }
-
-
-
-
-
-
-
-
-
