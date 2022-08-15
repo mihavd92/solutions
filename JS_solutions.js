@@ -46,7 +46,6 @@ while (i < stars1) {
     console.log(str)
 }
 
-
 // v2 //
 let stars2 = prompt('Enter count of stars')
 let str ='';
