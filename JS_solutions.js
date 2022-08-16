@@ -22,13 +22,13 @@ alert('All animals have ' + legs + ' legs.');
 
 let minutes = prompt('Enter value of minutes');
 
-if (minutes >= 1 & minutes < 15) {
+if (minutes >= 1 && minutes < 15) {
     console.log('On the time of ' + minutes + ' min arrow on I quarter');
-} else if (minutes >= 15 & minutes < 30) {
+} else if (minutes >= 15 && minutes < 30) {
     console.log('On the time of ' + minutes + ' min arrow on II quarter');
-} else if (minutes >= 30 & minutes < 45) {
+} else if (minutes >= 30 && minutes < 45) {
     console.log('On the time of ' + minutes + ' min arrow on III quarter');
-} else if (minutes >= 45 & minutes < 60) {
+} else if (minutes >= 45 && minutes < 60) {
     console.log('On the time of ' + minutes + ' min arrow on IV quarter');
 } else {
     console.log('Error!!!');
